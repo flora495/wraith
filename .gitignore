@@ -1,2 +1,4 @@
 /qmk_firmware/
 /wraith/.vscode/
+/qmk_firmware/keyboards/*
+/qmk_firmware/keyboards/wraith

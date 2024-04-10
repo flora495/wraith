@@ -3,6 +3,6 @@
 #以下にホワイトリストで書きます。
 !.gitignore
 !README.md
-!wraith
+!wraith/*
 !qmk_firmware/.build/*
 !qmk_firmware/keyboards/wraith/*

@@ -1,5 +1,6 @@
 
 
-qmk_firmware/.git
+/qmk_firmware/
+/wraith/.vscode/
 #!qmk_firmware/.build/**
 #!qmk_firmware/keyboards/wraith/**

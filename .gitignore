@@ -1,0 +1,7 @@
+*
+!*/
+#以下にホワイトリストで書きます。
+!.gitignore
+!README.md
+!qmk_firmware/.build/*
+!qmk_firmware/keyboards/wraith/*
